@@ -1,0 +1,22 @@
+# Willow Glen Dispatch
+
+> The Willow Glen Dispatch is a free weekly email newsletter about Willow Glen and central San Jose, CA, sent Thursdays at 6 AM Pacific and published by Neighborhood Press LLC. It covers city council decisions, land-use and permit notices, road and transit changes, school district news, openings and closings, with one section per neighborhood. Every item links its public source. It is researched and written with AI tools, and an editor reads every issue before it goes out.
+
+## Key pages
+- [This week in Willow Glen and central San Jose](https://www.willowglendispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [Standards](https://www.willowglendispatch.com/standards/): publisher, sources, sponsors, corrections
+- [Subscribe](https://www.willowglendispatch.com/): free, one email a week
+
+## Neighborhoods
+- [Downtown Willow Glen](https://www.willowglendispatch.com/downtown-willow-glen/): Lincoln Avenue from Coe Avenue to Minnesota Avenue, with the Willow Glen Branch Library on Minnesota Avenue and Los Gatos Creek curving along the historic core's western and northern edges.
+- [Willow Glen](https://www.willowglendispatch.com/willow-glen/): From Willow Street and Bird Avenue south to Foxworthy Avenue, with Willow Street Frank Bramhall Park and the Willow Glen Community Center at 2175 Lincoln Avenue.
+- [Rose Garden](https://www.willowglendispatch.com/rose-garden/): Around the Municipal Rose Garden at Naglee and Dana avenues, with the Rose Garden Branch Library and Hester Park on Naglee Avenue and the Rosicrucian Egyptian Museum on Park Avenue.
+- [Shasta-Hanchett Park](https://www.willowglendispatch.com/shasta-hanchett-park/): The blocks between The Alameda, Park Avenue, Race Street and Hester Avenue, reaching south to West San Carlos Street and east to the rail line near SAP Center.
+- [The Alameda and Diridon](https://www.willowglendispatch.com/the-alameda-diridon/): The east end of The Alameda and St. Leo's, around San Jose Diridon Station on Cahill Street, SAP Center on West Santa Clara Street and Cahill Park.
+- [Downtown San Jose](https://www.willowglendispatch.com/downtown/): The downtown core around City Hall on East Santa Clara Street, St. James Park, the Dr. Martin Luther King Jr. Library on East San Fernando Street and Guadalupe River Park.
+- [Japantown](https://www.willowglendispatch.com/japantown/): Centered on North Fifth and Jackson streets between First and Seventh streets, with the Japanese American Museum of San Jose, Heinlenville Park and the Japantown/Ayer light rail station.
+- [Hensley and Northside](https://www.willowglendispatch.com/hensley-northside/): The Hensley Historic District off North First Street, and Northside around Backesto Park at 13th and Empire streets and the Joyce Ellington Branch Library on East Empire Street.
+- [Naglee Park](https://www.willowglendispatch.com/naglee-park/): The blocks between South 11th Street, East Santa Clara Street, Coyote Creek and William Street, with William Street Park beside the creek at 16th and William streets.
+- [Spartan Keyes](https://www.willowglendispatch.com/spartan-keyes/): South of Interstate 280 off South First Street, with the Spartan Keyes Neighborhood Center on Keyes Street, Bestor Art Park on South Sixth Street and Kelley Park on Senter Road.
+- [Washington-Guadalupe](https://www.willowglendispatch.com/washington-guadalupe/): South of Interstate 280 between South First Street and the Guadalupe River, with the Biblioteca Latinoamericana branch library on South First Street.
+- [Gardner](https://www.willowglendispatch.com/gardner/): West of Highway 87 and south of Interstate 280 around West Virginia Street, with the Gardner Community Center at 520 West Virginia Street.
